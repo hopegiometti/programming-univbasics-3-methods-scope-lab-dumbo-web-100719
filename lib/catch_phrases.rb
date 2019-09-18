@@ -13,7 +13,7 @@ def link
   puts phrase
 end
 
-def catch_phrases(phrase)
-  phrase = any_phrase
+def any_phrase(phrase)
+  phrase = "Do A Barrel Role!"
   puts phrase
 end
